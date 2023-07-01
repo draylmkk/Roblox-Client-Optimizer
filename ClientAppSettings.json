@@ -26,7 +26,7 @@
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
   "FIntHttpCurlMaxCachedHandlesPerHost": 16,
-  "DFIntTaskSchedulerTargetFps": 500,
+  "DFIntTaskSchedulerTargetFps": 20000000,
   "FIntSSAOMipLevels": 0,
   "DFIntJoinDataCompressionLevel": 2,
   "DFIntClusterCompressionLevel": 2,
